@@ -1,1 +1,2 @@
-# blockchain-workshop-2-solidity
+# blockchain-workshop-1
+First blockchain workshop @ Yari
